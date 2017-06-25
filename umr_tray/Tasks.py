@@ -23,7 +23,7 @@ class Tasks():
 		r = br.open('http://192.168.0.1/cgi-bin/getcfg.cgi?login')
 		br.select_form(nr=0)
 		br.form['LOGINUNAME']='admin'
-		br.form['LOGINPASSWD']='poesface'
+		br.form['LOGINPASSWD']='......'
 		br.submit()
 		print br.response().read()
 
