@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=Umr Tray
+_Comment=UmrTray application
+Categories=GNOME;Utility;
+Exec=umr-tray
+Icon=umr-tray
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true

@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: umr-tray
+Upstream-Contact: ernest <ernestdup@gmail.com>
+Source: UNKNOWN
+
+Files: *
+Copyright: (C) 2013 ernest ernestdup@gmail.com
+License: UNKNOWN

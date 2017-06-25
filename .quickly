@@ -1,0 +1,4 @@
+project = umr-tray
+version = 12.08.1
+template = ubuntu-application
+dependencies = python-mechanize
